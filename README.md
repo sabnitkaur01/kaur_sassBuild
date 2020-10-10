@@ -4,10 +4,10 @@
 
 ### Table Of Content
 
-* [Explaination](#Explaination)
-* [References](#Refrences)
-* [Softwares] (#Software)
-* [Author](#author)
+* Explaination
+* References
+* Softwares
+* Author
 
 ## Explaination!
 
