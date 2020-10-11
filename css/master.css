@@ -69,6 +69,11 @@ footer {
   padding-bottom: 100px;
 }
 
+#topPanel {
+  margin: 0;
+  position: relative;
+}
+
 .box2, .box3 {
   padding-left: 0;
 }
@@ -257,11 +262,6 @@ body {
   font-family: "Lato", sans-serif;
   font-size: 16px;
   background-color: #505050;
-}
-
-#topPanel {
-  margin: 0;
-  position: relative;
 }
 
 #bottomPanel {
