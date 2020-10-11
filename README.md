@@ -2,7 +2,7 @@
 
 ![project image](images/sass.jpeg)
 
-### Table Of Content
+### Table of Content
 
 * Explaination
 * References

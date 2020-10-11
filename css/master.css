@@ -15,7 +15,7 @@ footer {
 
 .footerContent li {
   /*display:inline-block;
-    margin-right:50px;*/
+  margin-right:50px;*/
   max-width: 250px;
 }
 
@@ -69,6 +69,11 @@ footer {
   padding-bottom: 100px;
 }
 
+#topPanel {
+  margin: 0;
+  position: relative;
+}
+
 .box2, .box3 {
   padding-left: 0;
 }
@@ -90,7 +95,6 @@ footer {
 .imgText {
   position: relative;
   top: 50%;
-  -webkit-transform: translateY(-50%);
   transform: translateY(-50%);
   left: 12%;
 }
@@ -260,11 +264,6 @@ body {
   background-color: #505050;
 }
 
-#topPanel {
-  margin: 0;
-  position: relative;
-}
-
 #bottomPanel {
   margin: 0;
 }
@@ -292,13 +291,12 @@ body {
   position: relative;
   display: inline-block;
   /*float:right;*/
-  margin-right: 30px;
+  margin-left: 1100px;
   text-align: center;
   vertical-align: middle;
   cursor: pointer;
   background-color: #f3d83f;
-  top: 50%;
-  -webkit-transform: translateY(-50%);
+  top: 10%;
   transform: translateY(-50%);
   width: 55px;
   height: 45px;
@@ -357,7 +355,6 @@ body {
 .clLogo {
   position: relative;
   top: 50%;
-  -webkit-transform: translateY(-50%);
   transform: translateY(-50%);
   left: 40px;
 }
@@ -394,6 +391,8 @@ body {
   width: 30px;
   height: 30px;
   background-color: #eff3f4;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
   border-radius: 50%;
   margin-left: 10px;
 }
@@ -421,6 +420,7 @@ body {
   left: 40px;
   top: 70px;
   border-radius: 8px;
+  -moz-box-shadow: 3px 3px 3px 0px #666;
   -webkit-box-shadow: 3px 3px 3px 0px #666;
   box-shadow: 3px 3px 3px 0px #666;
 }
@@ -554,7 +554,5 @@ body {
 #mainImg {
   width: 100%;
 }
-
-/*# sourceMappingURL=master.css.map */
 
 /*# sourceMappingURL=master.css.map */
