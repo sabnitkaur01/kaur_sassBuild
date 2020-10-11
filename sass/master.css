@@ -293,12 +293,12 @@ body {
   position: relative;
   display: inline-block;
   /*float:right;*/
-  margin-right: 30px;
+  margin-left: 1100px;
   text-align: center;
   vertical-align: middle;
   cursor: pointer;
   background-color: #f3d83f;
-  top: 50%;
+  top: 10%;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
   width: 55px;
